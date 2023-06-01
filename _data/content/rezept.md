@@ -12,6 +12,8 @@
 - Fazit
 - Autor
 
+<!-- -->
+
 ## Einleitung
 
 Hey, heute zeige ich dir ein einfaches und dennoch unglaublich leckeres Rezept, das deine Geschmacksknospen zum Tanzen bringen wird. Wir werden eine köstliche Pasta zubereiten, bei der die Aromen von frischen Tomaten, Knobluch und Peperoni im Vordergrund stehen. Lass uns loslegen und gemeinsam in die Welt der italienischen Küche eintauchen!
